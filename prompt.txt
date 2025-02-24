@@ -1,0 +1,1 @@
+Crea una landing page responsive (mobile, tablet, desktop) usando HTML, CSS y JavaScript, basada en el análisis de esta imagen toma en cuenta los archivos de imágenes que estan en la carpeta assets/img.
