@@ -1,4 +1,4 @@
-<h1>Aquí podrás encontrar todos los recursos consstruidos durante la explicación proporcionada en el video</h1>
+<h1>Aquí podrás encontrar todos los recursos construidos durante la explicación proporcionada en el video</h1>
 <h2>Aquí podrás ubicar:</h2>
 <ul>
   <li>Guía paso a paso para instalar el asistente trae ai</li>
